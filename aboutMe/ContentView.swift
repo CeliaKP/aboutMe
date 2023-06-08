@@ -29,7 +29,7 @@ struct ContentView: View {
                 .font(.headline)
                 .buttonStyle(.borderedProminent)
                 .tint(Color(.systemIndigo))
-                Text("Celia is a thirteen year old scholar at Kode with Klossy. She is involved in theater at her school and likes to learn about history. In her free time she also likes to read books.  ")
+                Text("Celia is a thirteen year old scholar at Kode with Klossy. She is involved in theater at her school and likes to learn about history. In her free time she also likes to read books!  ")
                     .font(.title3)
                     .fontWeight(.light)
                     .foregroundColor(Color(hue: 0.727, saturation: 1.0, brightness: 1.0))
